@@ -31,5 +31,5 @@ File Descriptions:
 You can acces the project files on my Github repository: https://github.com/GuilleC1987/Project-4
 
 Licensing, Authors, Acknowledgements, etc. 
-
-Data and guidance provided by Udacity as  part of  Udacity's Data Scientis NanoDegree Program.
+- All the images are used only for educational pourpose.
+- Data and guidance provided by Udacity as  part of  Udacity's Data Scientis NanoDegree Program.
