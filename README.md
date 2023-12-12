@@ -28,7 +28,7 @@ File Descriptions:
 - haarcascades/: Folder containing export of Haar featurebased cascade classifiers to import.
 - images/: Set of images used in the jupyter notebook and Medium post article.
 
-You can acces the project files on my Github repository: https://github.com/GuilleC1987/Projects
+You can acces the project files on my Github repository: [https://github.com/GuilleC1987/Projects](https://github.com/GuilleC1987/Project-4)
 
 Licensing, Authors, Acknowledgements, etc. 
 
